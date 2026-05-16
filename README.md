@@ -65,3 +65,10 @@ Anda dapat menjalankan pelatihan model melalui notebook atau skrip Python:
 
 ## 📈 Hasil Pelatihan
 Model ini dirancang untuk mencapai akurasi di atas **85%** pada data pengujian, memenuhi standar untuk deployment aplikasi nyata.
+
+
+---
+
+## 👤 Penulis
+**Awanda Rosi Firdaus**  
+*Submission Akhir - Coding Camp by DBS Foundation & Dicoding (2026)*
